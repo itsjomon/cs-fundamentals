@@ -1,4 +1,5 @@
 # Fundamentals of Computer Science
+
 This repository provides a concise and structured reference for fundamental Computer Science subjects. It is intended for quick revision, practical reinforcement, and ongoing review of core concepts.
 
 ## Topics Covered
@@ -23,9 +24,18 @@ This repository provides a concise and structured reference for fundamental Comp
   A short and structured reference for understanding and practicing SQL queries and operations.<br>
   [View PDF](cs-notes/sql.pdf) | [SQL Tutorial](https://www.geeksforgeeks.org/sql-tutorial/)
 
+## Related Repositories
+
+- [Java Handbook](https://github.com/itsjomon/java-handbook)
+- [MERN Handbook](https://github.com/itsjomon/mern-handbook)
+- [30 Days of JavaScript](https://github.com/itsjomon/30-days-of-javascript)
+- [SQL 50](https://github.com/itsjomon/sql-50)
+- [Java Mini Projects](https://github.com/itsjomon/java-mini-projects)
+
 ## Additional References
 
 - [Prepare CS Core Subjects For Placements - OS, DBMS, CN & Software Engineering](https://www.geeksforgeeks.org/blogs/prepare-cs-core-subjects-for-placements/)
 
 ## License
-Licensed under the [MIT License](./LICENSE).
+
+Licensed under the [MIT License](LICENSE).
